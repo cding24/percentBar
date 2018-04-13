@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- percentBar -->
+    <declare-styleable name="PercentBar">
+        <attr name="percentWidth" format="dimension" />
+        <attr name="percent" format="integer" />
+        <attr name="percentLeftWidth" format="dimension"/>
+        <attr name="percentNameColor" format="color"/>
+        <attr name="percentName" format="string"/>
+        <attr name="percentNameTxtSize" format="dimension"/>
+        <attr name="percentbgColor" format="color" />
+        <attr name="percentStartColor" format="color" />
+        <attr name="percentEndColor" format="color" />
+        <attr name="percentPaddingTop" format="dimension"/>
+        <attr name="percentPaddingBottom" format="dimension"/>
+        <attr name="percentIsCorner" format="boolean"/>
+    </declare-styleable>
+</resources>
